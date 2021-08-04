@@ -1,0 +1,17 @@
+body{
+  background-image: url(../img/fundo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 50%;
+  height: 100%;
+}
+
+.jumbotron{
+  width: 47%;
+  background: rgb(66, 108, 163);
+  color: white;
+  
+}
+.text-center{
+  font-weight: bold;  
+}
